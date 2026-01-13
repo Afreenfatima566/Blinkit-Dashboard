@@ -127,3 +127,5 @@ Operational Efficiency: Assists in understanding how outlet size impacts perform
 
 6. Screenshots / Dashboard Preview
 ![Dashboard Preview](https://github.com/Afreenfatima566/Blinkit-Dashboard/blob/main/Blinkit%20dashboard.png)
+[📊 View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGEyNWYyZDUtNmFmZi00NTdjLTk3ZTktNDcwNTc5MDU1NDM1IiwidCI6ImEyZjUzYWVmLWFkM2MtNGYzNi04NjRlLTM1NjdlNjUxMjQ3MyJ9)
+
